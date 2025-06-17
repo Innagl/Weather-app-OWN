@@ -19,5 +19,6 @@ TECHNOLOGY USED:
  CSS3
  JavaScript
  OpenWeatherMap API
+ Design: Figma
 
 <img width="1449" alt="Screenshot 2025-06-17 at 6 18 34 AM" src="https://github.com/user-attachments/assets/a65d6747-a069-4531-b21a-057e1c228d51" />
